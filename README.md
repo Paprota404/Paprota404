@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**Paprota404/Paprota404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paprota, a Full-Stack software engineer. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on two portfolio projects:
+ - An E-commerce store: [audiophile-e-commerce-site.vercel.app](#)
+ - A real-time communicator: [directme-eta.vercel.app](#)
+- 🌱 I’m currently expanding my skills in .NET and React.
+- 👯 I’m open to working together on projects.
+- ⚡ Weird fact: I like leetcoding.
+
+## 🛠️ Skills
+
+- .NET
+- React
+- Next.JS
+- Azure
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-pro%C4%87-1704702bb/)
+- [Email](paprota404@gmail.com)
+
+  <p align="center">
+![e426702edf874b181aced1e2fa5c6cde](https://github.com/Paprota404/Paprota404/assets/153768290/22276699-9020-4b59-a2a2-039b441eed44)
+</p>
