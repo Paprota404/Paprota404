@@ -23,6 +23,3 @@ I'm Paprota, a Full-Stack software engineer.
 - [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-pro%C4%87-1704702bb/)
 - [Email](paprota404@gmail.com)
 
-  <p align="center">
-![e426702edf874b181aced1e2fa5c6cde](https://github.com/Paprota404/Paprota404/assets/153768290/22276699-9020-4b59-a2a2-039b441eed44)
-</p>
