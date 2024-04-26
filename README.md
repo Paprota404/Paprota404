@@ -8,8 +8,9 @@ I'm looking to expand my abilities and work with others on projects that bring v
 ## 🚀 About Me
 
 - 🔭 I’m currently working on two portfolio projects:
-- A real-time communicator: [directme-eta.vercel.app](#)
+- A real-time communicator: [directme-eta.vercel.app](#) - Because azure cold start, signing up and logging in may take a while
 - An E-commerce store: [audiophile-e-commerce-site.vercel.app](#)
+
 - 🌱 I’m currently expanding my skills in .NET and React.
 - 👯 I’m open to working together on projects.
 - ⚡ Weird fact: I like leetcoding.
