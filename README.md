@@ -18,6 +18,9 @@ I'm looking to expand my abilities and work with others on projects that bring v
 ## 🛠️ Skills
 
 - .NET
+- PostgreSQL
+- SQL
+- C#/Javascript
 - React
 - Next.JS
 - Azure
