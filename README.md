@@ -1,5 +1,3 @@
-
-![0_CbJvtNMVUVp-FfDo](https://github.com/Paprota404/Paprota404/assets/153768290/6c657a30-5e30-41c6-8c5f-4c373d862a57)
 # Hello 👋
 
 I'm Paprota, a Full-Stack software engineer. 
