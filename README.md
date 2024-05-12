@@ -1,3 +1,5 @@
+![gif na github](https://github.com/Paprota404/Paprota404/assets/153768290/dbef39c1-5358-4a58-add2-334b674aa595)
+
 # Hello 👋
 
 I'm Paprota, a Full-Stack software engineer. 
