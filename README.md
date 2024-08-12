@@ -19,7 +19,7 @@ I'm looking to expand my abilities and work with others on projects that bring v
 
 - .NET
 - PostgreSQL
-- SQL
+- Azure SQL Server
 - C#/Javascript
 - React
 - Next.JS
