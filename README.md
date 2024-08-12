@@ -13,11 +13,12 @@ I'm looking to expand my abilities and work with others on projects that bring v
 
 - 🌱 I’m currently expanding my skills in .NET and React.
 - 👯 I’m open to working together on projects.
-- ⚡ Weird fact: I like leetcoding.
+- ⚡ Fun fact: I enjoy leetcoding.
 
 ## 🛠️ Skills
 
 - .NET
+- EF Core
 - PostgreSQL
 - Azure SQL Server
 - C#/Javascript
