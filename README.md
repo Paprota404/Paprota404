@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Paprota, a Full-Stack software engineer. 
+I'm Paprota, a Full-Stack Software Engineer. 
 I have been enjoying problem-solving since I was a kid and thought that programming would suit my interest.
 Initially, I thought I would become a frontend developer, but I've since developed a stronger preference for backend development.
 I'm looking to expand my abilities and work with others on projects that bring value.
